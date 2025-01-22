@@ -13,6 +13,6 @@ module.exports = (webpackConfigEnv, argv) => {
     devServer: {
       port: 9002,
       hot: false,
-    }
+    },
   });
 };
